@@ -4,11 +4,11 @@ import { configureStore } from "./redux/store";
 import { Provider } from "react-redux";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
-import Home from "./containers/project/home";
-import Login from "./containers/loggedOut/Login";
-import Register from "./containers/loggedOut/Register";
-import ForgotPassword from "./containers/loggedOut/ForgotPassword";
-import ResetPassword from "./containers/loggedOut/ResetPassword";
+import Home from "./containers/home";
+import Login from "./containers/Login";
+import Register from "./containers/Register";
+import ForgotPassword from "./containers/ForgotPassword";
+import ResetPassword from "./containers/ResetPassword";
 
 const store = configureStore(window.__PRELOADED_STATE__);
 
