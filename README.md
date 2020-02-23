@@ -12,6 +12,7 @@ This is just a boilerplate repository to get you started with the development of
 - [Font Awesome](https://fontawesome.com/)
 - [Documentation](https://docs.npmjs.com/)
 - [Axios](https://github.com/axios/axios)
+- [Yup](https://github.com/jquense/yup)
 
 Complete configuration of redux store is also present, you need not to worry for that.
 
@@ -72,6 +73,7 @@ Available format options :: HTML, Markdown, JSON
 - [Redux](https://redux.js.org/)
 - [ReactStrap](https://reactstrap.github.io/)
 - [formik](https://github.com/jaredpalmer/formik)
+- [Yup](https://github.com/jquense/yup)
 - [Create React App](https://github.com/facebook/create-react-app)
 
 # Authors
