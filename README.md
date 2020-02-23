@@ -1,6 +1,19 @@
 # React-Redux-Boilerplate
 
-This is just a boilerplate repository to get you started with the development of your application right away without worrying about the its configurations.
+This is just a boilerplate repository to get you started with the development of your application right away without worrying about the its configurations. It provides you with the following packages out of the box.
+
+- [Redux](https://redux.js.org/)
+- [ReactStrap](https://reactstrap.github.io/)
+- [Formik](https://github.com/jaredpalmer/formik)
+- [Redux-Thunk](https://github.com/reduxjs/redux-thunk)
+- [Styled Components](https://styled-components.com/)
+- [Sweet Alert](https://sweetalert2.github.io/)
+- [Lodash](https://lodash.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Documentation](https://docs.npmjs.com/)
+- [Axios](https://github.com/axios/axios)
+
+Complete configuration of redux store is also present, you need not to worry for that.
 
 # Getting Started
 
